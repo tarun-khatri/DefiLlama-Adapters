@@ -1,6 +1,5 @@
 helper/db.js
 node_modules
-.env
 run.js
 blocks.js
 historical-data.js
@@ -14,3 +13,4 @@ projects/binance/data.csv
 
 scripts/tvlModules.json
 .claude
+config.bat
